@@ -14,3 +14,7 @@ body {
   padding: 1em;
   font-size: clamp(0.5rem, 2.5vmin, 1.5rem);
 }
+
+.key{
+    font-size: inherit;
+}
