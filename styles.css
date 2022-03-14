@@ -111,3 +111,8 @@ body {
     border: none;
     background-color: hsl(49, 51%, 47%);
 }
+
+.tile[data-state='correct']{
+    border: none;
+    background-color: hsl(115, 29%, 43%);
+}
