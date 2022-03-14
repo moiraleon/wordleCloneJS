@@ -106,3 +106,8 @@ body {
     border: none;
     background-color: hsl(240, 2%, 23%);
 }
+
+.tile[data-state='wrong-location']{
+    border: none;
+    background-color: hsl(49, 51%, 47%);
+}
