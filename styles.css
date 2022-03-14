@@ -87,5 +87,6 @@ body {
 }
 
 .tile{
-    background-color: yellow;
+   color: white;
+   border: .05em solid hsl(240, 2%, 23%);
 }
