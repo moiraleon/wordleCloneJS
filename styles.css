@@ -87,6 +87,12 @@ body {
 }
 
 .tile{
-   color: white;
+    font-size: 2em;
+    color: white;
    border: .05em solid hsl(240, 2%, 23%);
+    text-transform: uppercase;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
